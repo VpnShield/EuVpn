@@ -1,1 +1,24 @@
-
+{
+"Title": "🔥   توجــــــــــــــــــــــــــــــــه   🔥",
+"Description": "برای جلوگیری از قطع دسترسی خودتون ، فورا عضو بزرگترین کانال فیلترشکن مود شده و کانفیگ رایگان بشید ❤️👇🏻",
+"Link": "tg://join?invite=VsBoQ8ee1GMxOTBk",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD740",
+"ColorBackGround": "#ffffff",
+"TitleGravity": "center",
+"MessageGravity": "center",
+"ColorMessage": "#ff323232",
+"ColorTitle": "#ff111111",
+"ColorBtn": "#ffffff",
+"ColorBtnBg": "#00a043",
+"ColorBtnCancell": "#ffffff",
+"ColorBtnCancellBg": "#e90000",
+"Cancellable": "false",
+"MessageID": "1002263702",
+"ShowTime": "3",
+"Button": " عضویت اجباری ",
+"ButtonCancell": "  ",
+"Closure": "true",
+"Show": "on"
+}
